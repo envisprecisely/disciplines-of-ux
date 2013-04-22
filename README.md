@@ -3,6 +3,8 @@
 
 An infographic approach to visualize all players of the interactive field  . It shows the different areas and how they connect and overlap.
 
+[by envis precisely](http://envis-precisely.com)
+
 ## Kudos
 The diagram is based on the work of [Dan Saffer](http://www.kickerstudio.com/2008/12/the-disciplines-of-user-experience/)
 
