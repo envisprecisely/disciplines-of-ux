@@ -1,7 +1,7 @@
 # Mapping the Disciplines of User Experience Design
 ![The Disciplines of User Experience Design](https://raw.github.com/envisprecisely/disciplines-of-ux/master/poster.jpg)
 
-An infographic approach to visualize all players of the interactive field  . It visualises the different areas and how they connect and overlap.
+An infographic approach to visualize all players of the interactive field  . It shows the different areas and how they connect and overlap.
 
 ## Kudos
 The diagram is based on the work of [Dan Saffer](http://www.kickerstudio.com/2008/12/the-disciplines-of-user-experience/)
